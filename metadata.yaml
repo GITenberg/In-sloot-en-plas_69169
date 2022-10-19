@@ -1,0 +1,40 @@
+_repo: In-sloot-en-plas_69169
+_version: 0.0.1
+contributor:
+  illustrators:
+  - &id001
+    agent_name: Heimans, E.
+    gutenberg_agent_id: '55139'
+    url: http://www.gutenberg.org/2009/agents/55139
+  - &id002
+    agent_name: Thijsse, Jac. P. (Jacobus Pieter)
+    alias: Thijsse, Jacobus Pieter
+    birthdate: 1865
+    deathdate: 1945
+    gutenberg_agent_id: '51391'
+    url: http://www.gutenberg.org/2009/agents/51391
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Jac._P._Thijsse
+    - https://nl.wikipedia.org/wiki/Jac._P._Thijsse
+creator:
+  authors:
+  - *id001
+  - *id002
+description: ''
+gutenberg_issued: '2022-10-16'
+identifiers:
+  gutenberg: '69169'
+language: nl
+pgterms:marc905: 20201107014550heimans
+pgterms:marc906: '1920'
+pgterms:marc907: NL
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg
+publication_note: 'Netherlands: W. Versluys,1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: In sloot en plas
+url: http://www.gutenberg.org/ebooks/69169
