@@ -16,11 +16,16 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Jac._P._Thijsse
     - https://nl.wikipedia.org/wiki/Jac._P._Thijsse
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - *id001
   - *id002
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69169#In-sloot-en-plas
 gutenberg_issued: '2022-10-16'
 identifiers:
   gutenberg: '69169'
